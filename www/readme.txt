@@ -1,0 +1,1 @@
+put these 3 files under the www folder of a WAMP server.
